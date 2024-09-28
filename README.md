@@ -9,6 +9,10 @@ You must install a version of java
 ```
 java -version
 ```
+Clone this repository
+```
+https://github.com/CarlossRreyes/cinemapedia-app.git
+```
 Update Flutter SDK to latest version (Optional)
 ```
 flutter upgrade
@@ -30,3 +34,10 @@ flutter device
 flutter run
 ```
 
+
+
+**Cinemapedia images:**
+
+![Main panel](assets/img1.jpg)
+![Main panel](assets/img2.jpg)
+![Main panel](assets/img3.jpg)
